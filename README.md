@@ -24,18 +24,3 @@ Example:
 - Open `Demand_Cleaning.sql` in your SQL client and execute the statements on a test database.
 - Inspect results and adjust column names or types as required by your schema.
 
-## Contributing
-
-If you'd like to contribute, please:
-
-1. Fork the repository.
-2. Make changes in a feature branch.
-3. Open a pull request with a clear description of the changes.
-
-## License
-
-If you have a preferred license, add a `LICENSE` file at the repository root. Otherwise this repository has no explicit license and is provided as-is.
-
-## Contact
-
-For questions or suggestions, open an issue or contact the repository owner: @goyalkhushi.
